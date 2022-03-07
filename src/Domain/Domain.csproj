@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>IdentityServerAngular..Domain</RootNamespace>
+    <AssemblyName>IdentityServerAngular..Domain</AssemblyName>
+    <Company>IdentityServerAngular..Domain</Company>
+    <Product>IdentityServerAngular..Domain</Product>
+  </PropertyGroup>
+
+</Project>
